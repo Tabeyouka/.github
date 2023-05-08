@@ -12,7 +12,7 @@ The service is built using the following technologies:
 - React for building the frontend UI
 - Laravel for building the backend APIs
 - MySQL for managing the database
-- Tailwind CSS for frontend design
+- Bootstrap for frontend design
 <!-- - Docker for containerization and deployment -->
 
 ## Installation
