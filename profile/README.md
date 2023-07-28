@@ -1,7 +1,7 @@
 # 🍙: [食べようか]()
 
 <div align="center" style="display:flex;">
-    <img src=".github/profile/tabeyouka_logo.png" width="100" alt="logo"/>
+    <img src="/profile/tabeyouka_logo.png" width="100" alt="logo"/>
 </div>
 
 > 福岡で食べようか！
