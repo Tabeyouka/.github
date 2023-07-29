@@ -1,4 +1,4 @@
-# 🍙: [食べようか]()
+# 🍙 [食べようか]()
 
 <div align="center" style="display:flex;">
     <img src="/profile/tabeyouka_logo.png" width="100" alt="logo"/>
