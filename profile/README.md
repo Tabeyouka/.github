@@ -15,12 +15,10 @@
 <br>
 
 # 2. :two_men_holding_hands: チームメンバー紹介
-* [キム・ユミン](https://github.com/devYuMinKim)
-* [チョ・ヒョンジュン](https://github.com/JOHYEONJUN39)
-* [イ・ジュヒョン](https://github.com/d556f8)
-* [キム・ヒョン](https://github.com/Hyn2)
-* 福岡で食べようか！, チーム"食べようか"です!  
-
+|                                         PM & BE                                          |                                         FE                                          |                                         FE & BE                                          |                                         FE & BE                                    
+| :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/55650732?v=4" width=400px alt="ユミン"/> | <img src="https://avatars.githubusercontent.com/u/93760720?v=4" width=400px alt="ヒョンジュン"/> | <img src="https://avatars.githubusercontent.com/u/64972038?v=4" width=400px alt="ジュヒョン"/> | <img src="https://avatars.githubusercontent.com/u/125263770?v=4" width=400px alt="ヒョン"> | 
+|                       [キム・ユミン](https://github.com/devYuMinKim)                        |                            [チョ・ヒョンジュン](https://github.com/JOHYEONJUN39)                            |                            [イ・ジュヒョン](https://github.com/d556f8)                            |                          [キム・ヒョン](https://github.com/Hyn2)                          
 
 ### チーム文化は全部で~種類あり、継続的に補完しています!
 <!--
