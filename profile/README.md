@@ -21,8 +21,6 @@
 |                       Project Leader                        |                            Frontend                            |                            Full-Stack                            |                          Full-Stack                          
 
 ### チーム文化は全部で~種類あり、継続的に補完しています!
-<!--
-예시
 1. 말 아끼다가 :poop:된다.  
 좋은 아이디어가 있어도 말하지 않는다면 아무도 모릅니다. 설령 확신이 없는 의견이었더라도 팀에게 영감을 불어넣어줄 수 있습니다.
 2. 롤링롤 (Rolling Role)  
@@ -45,7 +43,6 @@
 팀원이 열심히 무언가를 한다면, 다른 팀원들이 그것을 무시할 리 없습니다.
 11. 말이 짧다...요?  
 회의는 공적인 자리입니다. 서로에게 존칭과 존댓말을 사용한다면 회의가 감정적인 방향으로 치우치지 않을 것입니다.
---> 
 ---
 <br>
 
@@ -116,4 +113,4 @@
 
 # 7. :pencil2: 追加情報
 - メール : gimyumin40@gmail.com
-- [GitHub リポジトリ](https://github.com/Tabeyouka)
+- [ソースコードリポジトリ](https://github.com/Tabeyouka/project_TABEYOUKA_main-deployment-repo)
