@@ -55,8 +55,9 @@
 
 ---
 <br>
-
+<!--
 # 6. :open_file_folder: 更新履歴
+-->
 <!--
 예시
 * 0.0.1
@@ -94,6 +95,6 @@
 ---
 <br>
 
-# 7. :pencil2: ご連絡に際しては
+# 6. :pencil2: ご連絡に際しては
 - メール : gimyumin40@gmail.com
 - [ソースコードリポジトリ](https://github.com/Tabeyouka/project_TABEYOUKA_main-deployment-repo)
