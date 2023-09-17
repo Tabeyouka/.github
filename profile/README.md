@@ -35,7 +35,7 @@
 <br>
 
 # 4. :department_store: プロジェクト構造
-<p align="center"><img src=""></p>
+![structure](https://github.com/Tabeyouka/.github/assets/55650732/0cf282b4-555d-484c-8fe6-82a1016c77ba)
 
 ---
 <br>
