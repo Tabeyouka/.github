@@ -31,6 +31,7 @@
     * ユーザーの位置、ジャンルなどを通じて検索できます。
 * レストランのレビューを書くことができます。
     * マイページで自分が書いたレビューを確認することができ、他のユーザーのレビューを確認することも可能です。
+    ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc3dzlkZDN3dDhuYWthYTdteDBnb20xd3g0cmV1dDZrNDhpeTJkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4fpXMO7liO8oKhNAPo/giphy.gif)
 ---
 <br>
 
