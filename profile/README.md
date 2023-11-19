@@ -25,13 +25,16 @@
 <br>
 
 # 3. :computer: コア機能
-* レストランの情報を提供します。
+* レストランの情報を提供します。  
+    ![](https://github.com/Tabeyouka/project_TABEYOUKA_main-deployment-repo/assets/93760720/9fd07e37-504f-40d9-87a4-37d7b22086e1)  
     * 食堂名, イメージ, 位置などを提供します。
-* レストランを検索することができます。
+* レストランを検索することができます。  
+    ![](https://github.com/Tabeyouka/project_TABEYOUKA_main-deployment-repo/assets/93760720/89ec69f5-7667-4718-80e4-1a10eca2e1e2)  
     * ユーザーの位置、ジャンルなどを通じて検索できます。
-* レストランのレビューを書くことができます。
-    * マイページで自分が書いたレビューを確認することができ、他のユーザーのレビューを確認することも可能です。
+* レストランのレビューを書くことができます。  
     ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc3dzlkZDN3dDhuYWthYTdteDBnb20xd3g0cmV1dDZrNDhpeTJkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4fpXMO7liO8oKhNAPo/giphy.gif)
+    * マイページで自分が書いたレビューを確認することができ、他のユーザーのレビューを確認することも可能です。
+    
 ---
 <br>
 
